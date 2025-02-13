@@ -1,4 +1,4 @@
-
+# This R script performs cross-validated Lasso regression on the mtcars dataset to predict the miles per gallon (mpg) based on the other features.
 # Setup ####
 d = mtcars
 insample_fraction  = .9
